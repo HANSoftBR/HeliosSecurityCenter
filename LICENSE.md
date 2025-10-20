@@ -41,7 +41,6 @@ A HANSoft **não se responsabiliza** por quaisquer danos diretos ou indiretos de
 Bibliotecas utilizadas e respectivas licenças:
 
 - Pillow — Licença HPND 
-- pillow-heif — Licença MIT
 - cryptography — Licença Apache 2.0
 - Tkinter e bibliotecas padrão Python — Licença Python Software Foundation
 
