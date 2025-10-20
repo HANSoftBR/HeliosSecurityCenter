@@ -83,6 +83,9 @@ O arquivo OCULTO pode ter qualquer extensão.
 - O arquivo base continua totalmente funcional  
 - Rápido (opera byte a byte)
 
+Nota:
+A concatenação pode ser detectada por análise forense, pois adiciona bytes extras ao final do arquivo base, mas todo o conteúdo permanece criptografado e ilegível, garantindo privacidade mesmo sob inspeção.
+
 ---
 
 ## Avisos de Segurança
